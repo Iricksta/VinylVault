@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0.0-alpha02
+## v1.0.0
 
 ### Added
 - Premium mobile and tablet UI refresh across the authenticated app shell and core screens.
