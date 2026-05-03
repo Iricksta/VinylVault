@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.4
+
+- Improved in-app update prompt and install flow
+
 ## v1.0.3
 
 - Improved in-app update download and install
