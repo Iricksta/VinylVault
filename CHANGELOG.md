@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.3
+
+- Improved in-app update download and install
+
 ## v1.0.2
 
 - Improved release detail enrichment
